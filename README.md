@@ -70,7 +70,7 @@ After training (or after loading the checkpoint), run the final cell in `dataset
 
 ```text
 English (exit for exit): A man is riding a bicycle
-Deutsch: Ein Mann fährt Fahrrad
+Deutsch: <model translation>
 ```
 
 Type `exit` to leave the interactive prompt.
